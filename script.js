@@ -14,7 +14,7 @@ const USER_CREDENTIALS = {
 };
 
 // Your API key for the chatbot service
-const apiKey = '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'; 
+const apiKey = 'Chatbot API Key'; 
 
 document.getElementById('sendButton').addEventListener('click', function() {
     const userInput = document.getElementById('userInput').value;
